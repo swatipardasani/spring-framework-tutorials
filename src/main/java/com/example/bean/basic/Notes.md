@@ -1,8 +1,10 @@
 Introduction : 
+
 •	Spring framework is an open source Java platform that provides comprehensive infrastructure support for developing robust Java applications very easily and very rapidly.
 •	Spring framework was initially written by Rod Johnson and was first released under the Apache 2.0 license in June 2003.
 
 Applications of Spring :
+
 Following is the list of few of the great benefits of using Spring Framework −
 
 •	POJO Based - Spring enables developers to develop enterprise-class applications using POJOs. The benefit of using only POJOs is that you do not need an EJB container product such as an application server but you have the option of using only a robust servlet container such as Tomcat or some commercial product.
