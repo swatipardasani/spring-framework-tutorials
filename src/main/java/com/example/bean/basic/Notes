@@ -21,4 +21,4 @@ Following is the list of few of the great benefits of using Spring Framework −
 
 •	Transaction management - Spring provides a consistent transaction management interface that can scale down to a local transaction (using a single database, for example) and scale up to global transactions (using JTA, for example).
 
-![Screenshot](spring-mini-logo.png)
+![spring_architecture](https://user-images.githubusercontent.com/31573162/81290244-58051680-9085-11ea-8223-28a741cf1989.png)
