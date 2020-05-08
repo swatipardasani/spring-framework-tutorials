@@ -12,10 +12,14 @@ It is the heart of the Spring Framework. The important tasks performed by the Io
 
 •	Managing the bean’s entire life-cycle
 
+Here is a diagrammatic representation of how beans are wired together by IoC container.
+
+![ioc-335x300](https://user-images.githubusercontent.com/31573162/81397187-79790780-9144-11ea-92bb-a726c39e46ac.png)
+
 The IoC container receives metadata from either an XML file, Java annotations, or Java code and works accordingly. IoC adds the flexibility and control of application, and provides a central place of configuration management for Plain Old Java Objects (POJO) of our application.
 This diagram represents an abstract view of the working of Spring Framework. It shows how Spring makes use of Java POJO classes and configuration metadata to produce a fully configured and executable system or application.
 
-![ioc-335x300](https://user-images.githubusercontent.com/31573162/81397187-79790780-9144-11ea-92bb-a726c39e46ac.png)
+![ioc-1-357x300](https://user-images.githubusercontent.com/31573162/81397625-5864e680-9145-11ea-87e8-0d119fe3e02f.png)
 
 There are two types of IoC containers:
 
