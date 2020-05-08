@@ -12,6 +12,9 @@ So, if I have to now define Dependency Injection for you, then the process of cr
 
 3.	Injector Class: This class is responsible for injecting the service class object into the client class
 
+
+![Types-of-Classes-What-is-Dependency-Injection-Edureka-330x180](https://user-images.githubusercontent.com/31573162/81400107-06728f80-914a-11ea-9bd6-8c01491a73c9.png)
+
 Inversion of Conversion :-
 
 Spring Framework, loose coupling is achieved using Inversion of Control.
